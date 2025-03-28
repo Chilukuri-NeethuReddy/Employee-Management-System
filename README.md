@@ -1,3 +1,4 @@
+
 # Employee Management System
 
 ## 📌 Project Overview
@@ -85,6 +86,6 @@ This project is licensed under the **MIT License**.
 ![Screenshot 2024-04-28 123706](https://github.com/user-attachments/assets/62f99d01-07aa-4914-90eb-94ff60a310be)
 ![Screenshot 2024-04-28 124035](https://github.com/user-attachments/assets/85ffd3c4-9e5d-4b43-9389-1b470b48efb6)
 
-
+![Screenshot 2024-04-28 133949](https://github.com/user-attachments/assets/485bd520-5d4e-4b84-8876-f42ac96df217)
 
 
